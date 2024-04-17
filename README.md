@@ -1,3 +1,7 @@
+<h2>Replaces the malfunctioning exe file in node-clipboard-event</h2>
+
+[node-clipboard-event](https://github.com/sudhakar3697/node-clipboard-event)
+
 You can download the binary under Releases on this page or you can compile it yourself like this:
 
 1.) Download the CPP file or clone this repository.
